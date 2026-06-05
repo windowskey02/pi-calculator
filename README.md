@@ -21,6 +21,8 @@ place in ```/bin/``` to be able to run system wide
 
 -Division
 
+-*NEW!* Raising to the power of 2
+
 -Supports 2 numbers
 
--Only supports integers for now, floating point support will come in a later update
+-*NEW!* Floating Point Support!
