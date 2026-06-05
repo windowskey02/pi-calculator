@@ -12,9 +12,9 @@ place in /bin/ to be able to run system wide
 
 # Features:
 
--Addition
--Subtraction
--Multiplication
--Division
--Supports 2 numbers
--Only supports integers for now, floating point support will come in a later update
+Addition
+Subtraction
+Multiplication
+Division
+Supports 2 numbers
+Only supports integers for now, floating point support will come in a later update
