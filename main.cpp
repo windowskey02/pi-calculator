@@ -4,8 +4,8 @@ using namespace std;
 
 int main() {
 
-int x;
-int y;
+float x;
+float y;
 cout << "choose a number" << endl;
 cin >> x;
 cout << "now choose another number" << endl;
@@ -15,6 +15,8 @@ cout << x << " + " << y << " = " << x+y << endl;
 cout << x << " - " << y << " = " << x-y << endl;
 cout << x << " * " << y << " = " << x*y << endl;
 cout << x << " / " << y << " = " << x/y << endl;
+cout << x << "^2 " << " = " << x*x << endl;
+cout << y << "^2 " << " = " << y*y << endl;
 return 0;
 
 }
